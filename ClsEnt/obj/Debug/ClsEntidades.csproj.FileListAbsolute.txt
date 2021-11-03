@@ -1,0 +1,5 @@
+C:\Users\204\source\repos\Veterinaria\ClsEnt\bin\Debug\ClsEnt.dll
+C:\Users\204\source\repos\Veterinaria\ClsEnt\bin\Debug\ClsEnt.pdb
+C:\Users\204\source\repos\Veterinaria\ClsEnt\obj\Debug\ClsEntidades.csprojAssemblyReference.cache
+C:\Users\204\source\repos\Veterinaria\ClsEnt\obj\Debug\ClsEnt.dll
+C:\Users\204\source\repos\Veterinaria\ClsEnt\obj\Debug\ClsEnt.pdb

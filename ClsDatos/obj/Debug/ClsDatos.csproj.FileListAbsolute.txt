@@ -1,0 +1,8 @@
+C:\Users\204\source\repos\Veterinaria\ClsDatos\obj\Debug\ClsDatos.csprojAssemblyReference.cache
+C:\Users\204\source\repos\Veterinaria\ClsDatos\bin\Debug\ClsDatos.dll
+C:\Users\204\source\repos\Veterinaria\ClsDatos\bin\Debug\ClsDatos.pdb
+C:\Users\204\source\repos\Veterinaria\ClsDatos\bin\Debug\ClsEnt.dll
+C:\Users\204\source\repos\Veterinaria\ClsDatos\bin\Debug\ClsEnt.pdb
+C:\Users\204\source\repos\Veterinaria\ClsDatos\obj\Debug\ClsDatos.csproj.CopyComplete
+C:\Users\204\source\repos\Veterinaria\ClsDatos\obj\Debug\ClsDatos.dll
+C:\Users\204\source\repos\Veterinaria\ClsDatos\obj\Debug\ClsDatos.pdb
